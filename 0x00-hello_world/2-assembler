@@ -1,0 +1,5 @@
+#!/bin/bash
+CFILE="main.c" # Replace with the name of your C file
+OUTPUT="${CFILE%.c}.s"
+gcc -S $CFILE -o $OUTPUT
+
