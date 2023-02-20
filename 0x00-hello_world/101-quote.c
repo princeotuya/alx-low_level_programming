@@ -5,7 +5,7 @@
  * main - print quote
  *
  *Description: prints Dors's quote
-
+ *
  * Return: always 1 (success)
  */
 
